@@ -33,7 +33,7 @@ __Clone the repository:__
 
 bash
 Copy code
-git clone https://github.com/ShailySrivastava/Portfolio.git
+git clone https://github.com/ShailySrivastava/Portfolio-Website.git
 
 __Navigate to the project directory:__
 
